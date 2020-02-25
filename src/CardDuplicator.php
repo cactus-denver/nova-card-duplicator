@@ -1,6 +1,6 @@
 <?php
 
-namespace Martynling\CardDuplicator;
+namespace Cactus\CardDuplicator;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Tool;

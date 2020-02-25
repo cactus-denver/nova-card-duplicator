@@ -1,12 +1,12 @@
 <?php
 
-namespace Martynling\CardDuplicator;
+namespace Cactus\CardDuplicator;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Events\ServingNova;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
-use Martynling\CardDuplicator\Http\Middleware\Authorize;
+use Cactus\CardDuplicator\Http\Middleware\Authorize;
 
 class ToolServiceProvider extends ServiceProvider
 {

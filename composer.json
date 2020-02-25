@@ -1,5 +1,5 @@
 {
-    "name": "martynling/card-duplicator",
+    "name": "cactus/card-duplicator",
     "description": "A Laravel Nova tool.",
     "keywords": [
         "laravel",
@@ -11,13 +11,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Martynling\\CardDuplicator\\": "src/"
+            "Cactus\\CardDuplicator\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Martynling\\CardDuplicator\\ToolServiceProvider"
+                "Cactus\\CardDuplicator\\ToolServiceProvider"
             ]
         }
     },

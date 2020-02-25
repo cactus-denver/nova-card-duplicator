@@ -1,9 +1,9 @@
 <?php
 
-namespace Martynling\CardDuplicator\Http\Middleware;
+namespace Cactus\CardDuplicator\Http\Middleware;
 
 use Laravel\Nova\Nova;
-use Martynling\CardDuplicator\CardDuplicator;
+use Cactus\CardDuplicator\CardDuplicator;
 
 class Authorize
 {
